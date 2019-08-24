@@ -1,0 +1,12 @@
+/*
+
+Pour accéder à cette apparence supplémentaire :
+
+ - Dans le menu déroulant, choisir l'apparence « Gros, serif ».
+
+ - Passez le curseur de la souris dans la région juste à droite
+   du titre (Bible Martin 1744). À un certain endroit, le curseur
+   pointe vers un lien. Cliquez.
+
+*/
+*{margin:0;padding:0}html{scrollbar-base-color:#c9d1c6}body{background:#d0d8cd;font:12px Arial,sans-serif;color:#000;text-align:center;margin:5px 0}#contenant{background:#eff2eb url(../img/vert_bas.png) repeat-x bottom left;border:1px solid #4b6c49;max-width:772px;margin:0 auto}#contenu{text-align:left;margin:0 2.55% 0 2.7%}h1{text-align:left;margin:20px 0 12px 20px;font:16px "Times New Roman"}h2{display:inline;margin:0;font-weight:normal;font-size:13px}#zlc{width:75%;text-align:justify;margin:20px 0 20px 40px}p,ol{font-size:13px}p{margin-top:12px}p.intro{margin-top:15px}#ps119 p{margin:15px 0 5px}ol{margin:20px 0;list-style-type:decimal}a{outline:0;font-size:12px;text-decoration:underline;color:#696a97}a:hover,a:active{color:#cc3300}a:active{text-decoration:none}#zlc,#zlc a{line-height:20px}#zlc a{padding:0 3px}a#ee{display:none}.ef{font-size:30%;line-height:5px}ol li{margin-left:40px}td.sh{width:100%;text-align:center;padding-right:10px}td.sh a,#shb a{padding:0 5px}#shb{padding:5px 0;text-align:center}#haut{width:100%;background:#e8ebe4 url(../img/1744_vert.gif) no-repeat center center;border-bottom:1px solid #4b6c49}#haut a,#shb a{font-family:"Times New Roman",Times,serif;text-transform:uppercase}#haut td{padding:0 10px}#drop,#drop ul{padding:0;margin:0;list-style:none}#drop a{display:block}#drop li{float:left}#drop li:hover{background-position:0 0}#drop li ul{position:absolute;left:-999em}#drop a,#drop li,#drop li ul{width:108px;wid\th:100px}#drop li:hover ul,#drop li.mnhover ul{left:auto}a#app{padding:6px 0;text-decoration:none}#choix a{padding:5px 3px;text-transform:none;background:#e8ebe4;border:1px solid #4b6c49;border-width:0 1px}a#prem{border-top-width:1px}a#dern{border-bottom-width:1px}#choix a:hover{font-weight:bold;color:#e8ebe4;background:#4b6c49}* html #contenant{width:772px}* html #zlc{width:537px}li:target,li.cible{padding:3px;background:#e8ebe4;border:1px solid #4a735a}
